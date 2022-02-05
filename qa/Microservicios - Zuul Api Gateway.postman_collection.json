@@ -331,7 +331,7 @@
 			"name": "Oauth",
 			"item": [
 				{
-					"name": "Token",
+					"name": "Token user",
 					"request": {
 						"auth": {
 							"type": "basic",
@@ -388,7 +388,7 @@
 					"response": []
 				},
 				{
-					"name": "Token",
+					"name": "Token admin",
 					"request": {
 						"auth": {
 							"type": "basic",
